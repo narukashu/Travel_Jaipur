@@ -1,0 +1,260 @@
+<resources>
+    <!-- UI strings -->
+    <string name="app_name" translatable="false">Travel Jaipur</string>
+    <string name="category_name_City_Overview" translatable="false">City OverView</string>
+    <string name="category_name_Restaurant" translatable="false">Cuisines</string>
+    <string name="category_name_Rajwada_Hotel" translatable="false">Lodges</string>
+    <string name="category_name_Historical" translatable="false">Historical Places</string>
+    <string name="item_hightlight_txt" translatable="false">Highlight</string>
+    <string name="intent_extra_item_title">PLACE_TITLE</string>
+
+
+    <string name="World_Trade_Park_title">World Trade Park</string>
+    <string name="World_Trade_Park_location">Malviya Nagar</string>
+    <string-array name="World_Trade_Park_highlights">
+        <item>100 rooms with 5 Star services, Banquet Hall, Swimming Pool</item>
+        <item>Movie Theatre Fantasy World (where you live in a fantasy world of illusion, we create it into reality)</item>
+        <item>UnderWater Restaurant (under construction)</item>
+        <item>Classy Auditorium (under construction)</item>
+    </string-array>
+    <string name="World_Trade_Park_provider">Mr.Anoop Bartaria</string>
+
+
+    <string name="Abhaneri_Stepwall_title">Chand Baori</string>
+    <string name="Abhaneri_Stepwall_location">Chand Baori,village Abhaneri</string>
+    <string-array name="Abhaneri_Stepwall_highlights">
+        <item>Chand Baori is said to be named after a local ruler called Raja Chanda.</item>
+        <item>According to Morna Livingston in Steps to Water: The Ancient Stepwells of India</item>
+        <item>The oldest parts of the step-well date from the 8th century onwards, An upper palace building was added to the site, which is viewed from the tabulated arches used by the Chauhan rulers and the cusped arches used by the Mughals.</item>
+        <item>This unique form of underground well-architecture remains constant from the 7th century in the existing monument</item>
+    </string-array>
+    <string name="Abhaneri_Stepwall_provider">King Chanda</string>
+
+
+    <string name="Galta_ji_title">Galta Ji</string>
+    <string name="Galta_ji_location">10 km away from Jaipur</string>
+    <string-array name="Galta_ji_highlights">
+        <item>This \'Galva Ashram\' is named after the famous Holy Saint Galva</item>
+        <item>Built within a mountain pass in the Aravalli Hills 10 km. east of Jaipur</item>
+        <item>Galta was northern India\'s first Vaishnava Ramanuja Peeth and became the one of the most important centres of the Ramanuja sect.</item>
+    </string-array>
+    <string name="Galta_ji_provider">Diwan Rao kriparam</string>
+
+    <!--Galtaji Ends-->
+
+    <string name="birla_Mandir_title">Birla Temple</string>
+    <string name="birla_Mandir_location">Jawahar Lal Nehru Marg, Tilak Nagar</string>
+    <string-array name="birla_Mandir_highlights">
+        <item>The temple is made of white marble.</item>
+        <item>There are four distinct parts of the temple: its sanctum, tower, main hall, and entrance</item>
+        <item>It has three towers, referencing the three main faiths of India,[3] as well as stained glass windows depicting traditional Hindu stories.</item>
+    </string-array>
+    <string name="birla_Mandir_provider">B. M. Birla Foundation</string>
+
+    <!--BirlaTemple Ends-->
+
+    <string name="Akshardham_title">Akshardham</string>
+    <string name="Akshardham_location">Chitrakoot</string>
+    <string-array name="Akshardham_highlights">
+        <item>Akshardham (religion), a belief within the Swaminarayan sect of Hinduism</item>
+        <item>Compare the city\’s past with its present</item>
+    </string-array>
+    <string name="Akshardham_provider">Bochasanwasi Shree Akshar Purushottam Swaminarayan Sansthan</string>
+
+    <!--    Akshardham ends-->
+
+    <string name="Central_Park_title">Central Park</string>
+    <string name="Central_Park_location">Grant Park</string>
+    <string-array name="Central_Park_highlights">
+        <item>It is located, as its name suggests, in the centre of Jaipur city </item>
+        <item>Central Park Garden also has a 4 kilometres (2.5 mi) long jogging and walking track</item>
+        <item>A number of migratory and native birds visit the park during the year.</item>
+        <item>Central park has a 206 feet (63 m) high first day and night monumental national flag with the flag of 28 feet (8.5 m) wide and 72 feet (22 m) in length. </item>
+    </string-array>
+    <string name="Central_Park_provider">Jaipur Development Authority</string>
+    <!--CentralparkEnds-->
+
+    <!-- Food -->
+    <string name="Rajasthani_Food_title">Rajasthani Food</string>
+    <string name="Rajasthani_Food_location">Any Restaurent</string>
+    <string-array name="Rajasthani_Food_highlights">
+        <item>Rajasthan, the land of Maharajas, is famous for its rich culture. But what makes the state distinctive and popular is its cuisine</item>
+        <item>Rajasthanis love their food and it is evident in their preparations.</item>
+        <item>Dal Bati Churma and Laal Maas are the most famous dishes from the state.</item>
+    </string-array>
+    <string name="Rajasthani_Food_provider">Dal Bati Churma</string>
+
+    <string name="BBQ_Nation_title">BBQ Nation</string>
+    <string name="BBQ_Nation_location">M.I.Road</string>
+    <string-array name="BBQ_Nation_highlights">
+        <item>Barbeque Nation is known for its live on-the-table grill and the scrumptious vegetarian and non-vegetarian dishes.</item>
+        <item> The usual buffet offered at the restaurant includes a three-course meal with starters, main course and dessert.</item>
+        <item>Any hot drinks are chargeable. over a year ago. Yes ! ... Barbeque nation also serve alcohol and cocktail.</item>
+        <item>“Unlimited Starters and food at Barbeque Nation” ... those who can manage to save some space in their tummy after the starters, get a chance to eat a nice spread of veg and non veg buffet</item>
+    </string-array>
+    <string name="BBQ_Nation_provider">Sajid Dhanani</string>
+
+
+    <string name="Virasat_title">Virasat</string>
+    <string name="Virasat_location">Sahakar Marg</string>
+    <string-array name="Virasat_highlights">
+        <item>Virasat is truly one of the most regal and imperial family restaurants in Jaipur, India</item>
+        <item>We have been serving local as well as international guests with amazing royalty and ethnicity of Rajasthan in form of cuisines, performances, and many ways</item>
+        <item>Being one of the best Restaurant in Jaipur, Virasat Restaurant is committed towards giving a new definition of how the culture of Rajasthan feels like.</item>
+        <item> We adore the exquisite ethnicity of Rajasthan by serving our guests with royal welcome, royal grooming, feet wash, royal photography, and imperial dining. </item>
+    </string-array>
+    <string name="Virasat_provider">Manish Tambi</string>
+
+
+    <string name="Jaipur_Adda_title">Jaipur Adda</string>
+    <string name="Jaipur_Adda_location">Khasa Kothi Circle</string>
+    <string-array name="Jaipur_Adda_highlights">
+        <item>Best place to hangout with friends best food service location ambiance</item>
+        <item>It\'s such a lovely place ,good food, good service ND familiar atmosphere</item>
+        <item>The menu includes delicious Finger Food and North Indian dishes that you can relish with friends or family. It is a great place to spend some quality time and enjoy ...</item>
+    </string-array>
+    <string name="Jaipur_Adda_provider">A Unit of Nirwana Hotel jaipur</string>
+
+
+    <string name="ZoloCrust_title">ZoloCrust</string>
+    <string name="ZoloCrust_location">Hotel Clarks Amer</string>
+    <string-array name="ZoloCrust_highlights">
+        <item> Zolocrust is the first of its kind in India, where our chefs are at the forefront and always at your service. Our restaurant is run 24x7 only by chefs, we do everything from taking your order, preparing it, serving you, cleaning, and even the dishwashing.</item>
+        <item>Zolocrust is not just a live kitchen. We do not have a back area, and we believe in our quality so much so that even the dishwashing area is kept open for your visibility.</item>
+    </string-array>
+    <string name="ZoloCrust_provider">Peeyush Mathur</string>
+
+
+    <string name="Rajput_Room_title">The Rajput Room</string>
+    <string name="Rajput_Room_location">Rambagh</string>
+    <string-array name="Rajput_Room_highlights">
+        <item>Unwind at our informal all-day-dining restaurant, Rajput Room</item>
+        <item>Overlooking the front lawns of Rambagh Palace, it offers a wonderful breakfast, light meals, and select signature French press coffees and freshly infused teas.</item>
+    </string-array>
+    <string name="Rajput_Room_provider">Taj Hotel</string>
+
+
+    <!-- Hotel -->
+    <string name="Fairmont_title">Fairmont</string>
+    <string name="Fairmont_location">2, Riico Kukas</string>
+    <string-array name="Fairmont_highlights">
+        <item>Fairmont Jaipur is truly a royal destination.</item>
+        <item>Built in the tradition of the region\’s grand Mughal palaces, this majestic hotel offers the best in modern amenities and is perfectly complemented with the rich heritage of Rajasthan in the design and attention to detail on display in each of the 245 guest rooms.</item>
+    </string-array>
+    <string name="Fairmont_provider">Ratan Sharma</string>
+
+
+    <string name="Ibis_title">Ibis</string>
+    <string name="Ibis_location">Ajmer Rd</string>
+    <string-array name="Ibis_highlights">
+        <item>ibis is located in the city center of Jaipur in the CBD.</item>
+        <item>Ideal for work and Leisure near Civil lines metro station. </item>
+        <item>Relax at the Hub Bar, work out at the Gym or roof top pool</item>
+        <item>The light and sound show at the Amber fort (15 Kms) is a sight to behold, while the cultural shows and a stroll through the roads of centuries old Pink City (5 Kms) would amaze you.</item>
+    </string-array>
+    <string name="Ibis_provider">Accor</string>
+
+
+    <string name="Radission_title">Radission</string>
+    <string name="Radission_location">Khasa Kothi Circle</string>
+    <string-array name="Radission_highlights">
+        <item>Warm rooms with wood floors provide minibars, complimentary Wi-Fi and flat-screens, plus tea and coffeemaking facilities. Room service is available 24/7.</item>
+        <item>A breakfast buffet is free. There are 4 restaurants, including a Moroccan-themed eatery/hookah lounge with a terrace and views of Amber Fort. There\'s also a bar and a nightclub, along with a rooftop outdoor pool featuring city views. Other amenities consist of a gym, a spa, saunas and hot tubs, plus 2 ballrooms. Valet parking is offered.</item>
+        <item>Set among shops and eateries in the city centre, this upmarket hotel is 8 minutes\' walk from a metro station, and 13 km from the 1500s Amber Fort and Palace.</item>
+    </string-array>
+    <string name="Radission_provider">Radisson Hospitality</string>
+
+
+    <string name="Meridian_title">Meridian</string>
+    <string name="Meridian__location">Number 1 Riico, Kukas,</string>
+    <string-array name="Meridian__highlights">
+        <item>This hotel offers special rooms for COVID-19 responders. Contact the hotel for details.</item>
+        <item>Posh rooms feature warm decor, high ceilings and wood furnishings, plus flat-screen TVs and Wi-Fi (fees may apply). All offer minibars, and tea and coffeemaking facilities; upgraded quarters have balconies. Suites add separate sitting areas. Upgraded suites and garden villas include private butler service. Room service is available 24 hours.</item>
+        <item>Parking and breakfast are free. There are also 2 restaurants, plus a courtyard pool and 2 bars (1 poolside). Other amenities consist of a spa, a fitness centre and a kids\' club.</item>
+        <item>Room Service</item>
+        <item>Suites</item>
+        <item>Outdoor pool</item>
+        <item>Laundry service</item>
+    </string-array>
+    <string name="Meridian__provider">Marriott International</string>
+
+
+    <string name="Oberoi_Palace_title">Oberoi Palace</string>
+    <string name="Oberoi_Palace_location">Babaji Ka Modh</string>
+    <string-array name="Oberoi_Palace_highlights">
+        <item>Set amid 13 hectares of lush gardens in a fort with an ornate plaster facade, this luxury hotel is 20 km from the Amber Fort and and 9 km from the lavish exterior of Hawa Mahal palace.</item>
+        <item>Housed in freestanding groups, the sophisticated rooms, tents and villas with walled gardens feature flat-screen TVs, free Wi-Fi, and tea and coffeemaking facilities. Tents add claw-foot tubs; some include living rooms. Villas have private pools.</item>
+        <item>There are 2 opulent restaurants, and a bar with a marble fireplace. The spa, set in an 18th-century mansion, offers Ayurvedic treatments. There\'s also an outdoor pool and a gym.</item>
+    </string-array>
+    <string name="Oberoi_Palace_provider">Rai Bahadur Mohan Singh Oberoi</string>
+
+
+    <string name="Rajasthan_Palace_title">Rajasthan Palace</string>
+    <string name="Rajasthan_Palace_location">3 Peelwa Garden</string>
+    <string-array name="Rajasthan_Palace_highlights">
+        <item>Set 2 km from Albert Hall Museum, this relaxed hotel is 3 km from ornate Hawa Mahal palace and 5 km from Jaipur train station.</item>
+        <item>Warmly decorated rooms offer flat-screens and sitting areas, plus tea and coffeemaking facilities. Some include minifridges. Upgraded room add living areas. Kids age 5 and under stay at no charge in a parent\'s room.</item>
+        <item>A rooftop terrace features a pool, sunloungers and sitting areas. There\'s also a garden and a courtyard, as well as a laid-back restaurant. Breakfast and parking are available.</item>
+    </string-array>
+    <string name="Rajasthan_Palace_provider">Thakur Mohan Singh Ji</string>
+
+
+    <!-- Must-See -->
+    <string name="Hawamahel_title">Hawamahel</string>
+    <string name="Hawamahel_location">Badi Choupad</string>
+    <string-array name="Hawamahel_highlights">
+        <item>Hawa Mahal is a palace in Jaipur, India. Built from red and pink sandstone, the palace sits on the edge of the City Palace, Jaipur, and extends to the Zenana, or women\'s chambers.</item>
+        <item>The structure was built in 1799 by Maharaja Sawai Pratap Singh, the grandson of Maharaja Sawai Jai Singh, who was the founder of Jaipur.</item>
+        <item>In 2006, renovation works on the Mahal were undertaken, after a gap of 50 years, to give a facelift to the monument at an estimated cost of Rs 4.568  million</item>
+    </string-array>
+    <string name="Hawamahel_provider">Maharaja Sawai Pratap Singh</string>
+
+
+    <string name="Albert_hall_title">Albert Hall</string>
+    <string name="Albert_hall_location">Ram Niwas Garden</string>
+    <string-array name="Albert_hall_highlights">
+        <item>The Albert Hall Museum in Jaipur is the oldest museum of the state and functions as the state museum of Rajasthan,</item>
+        <item>The building is situated in Ram Niwas garden outside the city wall opposite New gate and is a fine example of Indo-Saracenic architecture. It is also called the Government Central Museum.</item>
+    </string-array>
+    <string name="Albert_hall_provider">Sir Samuel Swinton Jacob</string>
+
+
+    <string name="Amber_Fort_title">Amber Fort</string>
+    <string name="Amber_Fort_location">Devisinghpura</string>
+    <string-array name="Amber_Fort_highlights">
+        <item>Mughal architecture greatly influenced the architectural style of several buildings of the fort</item>
+        <item>Amer is a town with an area of 4 square kilometres (1.5 sq mi)[1] located 11 kilometres (6.8 mi) from Jaipur, the capital of Rajasthan.</item>
+        <item>The town of Amer and the Amber Fort were originally built by the Meenas,[2] and later it was ruled by Raja Man Singh I.</item>
+    </string-array>
+    <string name="Amber_Fort_provider">Raja Alan Singh</string>
+
+
+    <string name="Nahargarh_Fort_title">Nahargarh Fort</string>
+    <string name="Nahargarh_Fort_location">Krishna Nagar</string>
+    <string-array name="Nahargarh_Fort_highlights">
+        <item>Nahargarh Fort stands on the edge of the Aravalli Hills, overlooking the city of Jaipur in the Indian state of Rajasthan.</item>
+        <item>Along with Amer Fort and Jaigarh Fort, Nahargarh once formed a strong defense ring for the city. </item>
+        <item>The popular belief is that Nahar here stands for Nahar Singh Bhomia,[1] whose spirit haunted the place and obstructed construction of the fort.</item>
+    </string-array>
+    <string name="Nahargarh_Fort_provider">Maharaja Sawai Jai Singh</string>
+
+
+    <string name="Jantar_Mantar_title">Jantar Mantar</string>
+    <string name="Jantar_Mantar_location">Gangori Bazaar, J.D.A. Market</string>
+    <string-array name="Jantar_Mantar_highlights">
+        <item>The Jantar Mantar is a collection of nineteen architectural astronomical instruments built by the Rajput king Sawai Jai Singh I, the founder of Jaipur, Rajasthan. The monument was completed in 1734</item>
+        <item>It features the world\'s largest stone sundial, and is a UNESCO World Heritage site.</item>
+    </string-array>
+    <string name="Jantar_Mantar_provider">Maharaja Sawai Jai Singh</string>
+
+
+    <string name="Jal_Mahel_title">Jal Mahel</string>
+    <string name="Jal_Mahel_location">Amer Rd, Jal Mahal, Amer</string>
+    <string-array name="Jal_Mahel_highlights">
+        <item>The Jal Mahal palace is an architectural showcase of the Rajput style of architecture (common in Rajasthan) on a grand scale.</item>
+        <item>The building has a picturesque view of the lake itself but owing to its seclusion from land is equally the focus of a viewpoint from the Man Sagar Dam on the eastern side of the lake in front of the backdrop of the surrounding Nahargarh ("tiger-abode") hills.</item>
+        <item> The palace, built-in red sandstone, is a five storied building, of which four floors remain underwater when the lake is full and the top floor is exposed.</item>
+    </string-array>
+    <string name="Jal_Mahel_provider"> Maharaja Jai Singh II </string>
+
+</resources>
