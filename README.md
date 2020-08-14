@@ -26,5 +26,5 @@
 Used ViewPager + Fragments as well as TabLayout to display the content. Also it is powered using Custom Array Adapter. 
 ## Travel_Jaipur App Images
 
-<img src = "1.png" width="300px" height="550px" > <img src = "2.jpeg" width="300px" height="550px"><br>
+<img src = "1.jpeg" width="300px" height="550px" > <img src = "2.jpeg" width="300px" height="550px"><br>
 <img src = "3.jpeg" width="300px" height="550px" > <img src = "4.jpeg" width="300px" height="550px" >
