@@ -28,5 +28,3 @@ Used ViewPager + Fragments as well as TabLayout to display the content. Also it 
 
 <img src = "1.png" width="300px" height="550px" > <img src = "2.png" width="300px" height="550px"><br>
 <img src = "3.png" width="300px" height="550px" > <img src = "4.png" width="300px" height="550px" >
-
-Check out more Images in AppImages folder.
